@@ -1,0 +1,5 @@
+# Vamos a ignorar las copias de seguridad
+*.bak
+
+# Y también los ficheros de texto
+*txt
